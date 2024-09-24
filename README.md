@@ -2,6 +2,10 @@
 
 Welcome to my page! The goal of this project is to have a **fully non-destructive** upgrade path to [Klipper](https://www.klipper3d.org/), on a Bambu Lab P1S. This means replacing the existing electronics with open-source hardware. My project right now is in the works, but should be fully working hopefully soon. Stick around for updates.
 
+# Update as of 24/09/2024 07:28AM GMT+1
+
+A suitable replacement power supply has been found that is a drop in replacement and gives +100w. However the problem with this is that it only accepts 230v input, meaning NA users are out of luck for this route. External may be necessary for this to work in NA. I will continue to try fit a better power supply into the right side of the chamber but this will be hard to do easily. A custom printed rear panel may be needed for this to work.
+
 # Update as of 22/09/2024 07:02AM GMT+1
 
 I have designed a custom PCB that will allow me to control almost everything. It allows use of all the stock fans in the rear minus the MCU cooling fan, as the 92mm chamber fan is going to be reused to cool off all the fancy new electronics more quietly.
