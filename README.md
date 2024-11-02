@@ -2,6 +2,10 @@
 
 Welcome to my page! The goal of this project is to have a **fully non-destructive** upgrade path to [Klipper](https://www.klipper3d.org/), on a Bambu Lab P1S. This means replacing the existing electronics with open-source hardware. My project right now is in the works, but should be fully working hopefully soon. Stick around for updates.
 
+# Update as of 02/11/2024 00:33AM GMT+0
+
+I do apologise to lack of updates here, but I bring AMAZING news! Almost the entire printer is now fully controlled via Klipper! We are talking fans, hotend, and now THE BED! The load cells are the last tackle if I ever want to get around to that, but I am honestly loving the whole microprobe setup, it works perfectly fine.
+
 # Update as of 10/10/2024 11:58PM GMT+1
 
 Hello again! I have made some good progress on the P1S. I have swapped the hardware out with a BTT Manta M5P and CB2, provided for free by BIGTREETECH. I haven't got the heat bed to work yet, but I do have a temperature readout for the thermistor! I have also done a lot of probing around with a multimeter on the piezoelectric amplifier boards and believe that I have found the piezo signal line. I just need to supply it with the necessary power and then we could have working load cells. I am working on the heat bed as soon as I can, just doing some test prints using the old MCU to control the bed temperature. Not ideal at all but it's working.
