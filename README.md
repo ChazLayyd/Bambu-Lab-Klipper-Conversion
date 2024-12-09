@@ -3,7 +3,7 @@
 > [!Caution]
 > This Project is in **BETA**, doing this conversion is fully at your own risk, I am not responsible for any damages done to your machine. This also will likely void your warranty.
 
-Welcome to the Bambu Lab Klipper Conversion page! The project is in beta at the moment. This is a **non-destructive (PCB Only)**, or **destructive** upgrade path to [**Klipper**](https://www.klipper3d.org/), on a Bambu Lab P1 (or X1, untested). This means replacing the existing electronics with open-source hardware. A custom PCB has been designed to make everything plug and play with the fans, heatbed etc. The project runs on a fork of Klipper known as [**DangerKlipper**](https://github.com/DangerKlippers/danger-klipper). Make sure to get yourself familiarized with [**The Official Klipper Docs**](https://www.klipper3d.org/) and [**The DangerKlipper Docs**](https://github.com/DangerKlippers/danger-klipper/tree/master/docs)
+Welcome to the Bambu Lab Klipper Conversion page! The project is in beta at the moment. This is a **non-destructive (PCB Only)**, or **destructive** upgrade path to [**Klipper**](https://www.klipper3d.org/), on a Bambu Lab P1 (or X1, untested). This means replacing the existing electronics with open-source hardware. A custom PCB has been designed to make everything plug and play with the fans, heatbed etc. The project runs on a fork of Klipper known as [**Kalico**](https://github.com/KalicoCrew/kalico), previously known as DangerKlipper. Make sure to get yourself familiarized with [**The Official Klipper Docs**](https://www.klipper3d.org/) and [**The Kalico Docs**](https://github.com/KalicoCrew/kalico/tree/main/docs)
 
 You can find the BOM [**here**](https://docs.google.com/spreadsheets/d/187OusyREO98zsinT2Vspcr3hRtGYJvgfUr3D4DhnsbQ/edit?usp=sharing).
 
@@ -18,9 +18,9 @@ The current release is <ins>**0.1** </ins>
 - ✓ All fans work if wired correctly (PWM and Tach control needs to be added)
 
 ## What doesn't work? (as of release <ins>**0.1**</ins>)
-- ✖ Bambu Lab AMS (This likely will never work, sorry!)
-- ✖ Load cell probing (Replaced for now with a Biqu Microprobe), but a board is in the works.
-- ✖ Webcam
+- ✖ Bambu Lab AMS (People are working on getting the Bambu Lab AMS to work)
+- ✖ Load cell probing (Replaced for now with a Biqu Microprobe), but a custom board is in the works.
+- ✖ Webcam (You can purchase the X1C camera and wire it up as a USB camera)
 - ✖ Stock display
 - ✖ Toolhead boards
 - ✖ Filament runout detection
