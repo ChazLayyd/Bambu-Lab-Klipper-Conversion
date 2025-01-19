@@ -1,5 +1,7 @@
 ## Bambu Lab Klipper Conversion!
 
+## Join the [**Community Discord!**](https://discord.gg/W6B5mBejuC)
+
 > [!Caution]
 > This Project is in **BETA**, doing this conversion is fully at your own risk, I am not responsible for any damages done to your machine. This also will likely void your warranty.
 
