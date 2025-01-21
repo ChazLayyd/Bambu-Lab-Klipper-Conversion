@@ -20,9 +20,9 @@ The current release is <ins>**0.1** </ins>
 - ✓ Heatbed control with the Stock SSR
 - ✓ The entire motion system is unchanged
 - ✓ All fans work if wired correctly (PWM and Tach control needs to be added)
+- ✓ Bambu Lab AMS does work via the [**OpenAMS project**](https://github.com/OpenAMSOrg)
 
 ## What doesn't work? (as of release <ins>**0.1**</ins>)
-- ✖ Bambu Lab AMS (People are working on getting the Bambu Lab AMS to work)
 - ✖ Load cell probing (Replaced for now with a Biqu Microprobe), but a custom board is in the works.
 - ✖ Webcam (You can purchase the X1C camera and wire it up as a USB camera)
 - ✖ Stock display
