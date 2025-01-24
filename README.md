@@ -1,5 +1,7 @@
 ## Bambu Lab Klipper Conversion!
 
+![Klipper Logo](/images/logo_new.png)
+
 ## Join the [**Community Discord!**](https://discord.gg/W6B5mBejuC)
 
 ## As requested multiple times- you can support the project on [**Ko-Fi**](https://ko-fi.com/chazmakes). It's not necessary, but if you want to help out then all support is greatly appreciated!
