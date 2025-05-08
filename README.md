@@ -13,8 +13,7 @@ Welcome to the Bambu Lab Klipper Conversion page! The project is in beta at the 
 
 You can find the BOM [**here**](https://docs.google.com/spreadsheets/d/187OusyREO98zsinT2Vspcr3hRtGYJvgfUr3D4DhnsbQ/edit?usp=sharing).
 
-You can find the Instructions Guide [**here**](https://docs.google.com/document/d/10jUgWAk6IcKfLQbqBuNKKKB1ifLewu4NGnTodkZCtSU/edit?usp=sharing).
->If you want to try out the new docs (unfinished) then you can find them [**here**](https://docs.chazmakes.com/)
+Find extensive documentation [**here**](https://docs.chazmakes.com/)!
 
 The current release is <ins>**0.1** </ins>
 
